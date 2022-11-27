@@ -6,11 +6,11 @@
 | Primary Functional Requirements | UC-2: Fundamental function of the application <br> UC-3: Directly Supports core business |
 | Quality Attributes | QA-1: Performance <br> QA-4 Usability |
 ### Step 2: Establish Iteration Goal by Selecting Drivers
-The goal of the first iteration is to design the overall architecture of the system. These will be use to build the basis of the design:
-- CON-3: CMS will use a database to store and update information
-- CON-6: Students will be able to access all necessary information.
-- QA-4: Performance
+The goal of this iteration is to address the general architecture concern of identifying stucture to support primary functionality. The following are are the system's primary use cases.
+- UC-2
+- UC-3
 ### Step 3: Choose one or more element to design
+For this iteration we will be refining the modules. The support of functionality in the system depends on the modules working together, so we are refining this aspect.
 ### Step 4: Choose one or more design concepts
 ### Step 5: Instantiate Architectural Elements, Allocate Responsibilites, and Define Interfaces
 ### Step 6: Sketch Views and Record Deisgn Decisions
