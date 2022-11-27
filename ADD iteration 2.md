@@ -12,6 +12,9 @@ The goal of this iteration is to address the general architecture concern of ide
 ### Step 3: Choose one or more element to design
 For this iteration we will be refining the modules. The support of functionality in the system depends on the modules working together, so we are refining this aspect.
 ### Step 4: Choose one or more design concepts
+| Design Decisions and Location | Rationale |
+| -------- | ------- |
+| Create a database to hold product information | Large volumes of product data can be stored in one place while enabling search and sorts<br><br>Product data can be updated in an effective and clean way<br><br>Data will be assessable to the scanner in order to have functionality|
 ### Step 5: Instantiate Architectural Elements, Allocate Responsibilites, and Define Interfaces
 ### Step 6: Sketch Views and Record Deisgn Decisions
 ### Step 7: Perform analysis of current design and review interation goal and achiecement of design purpose.
