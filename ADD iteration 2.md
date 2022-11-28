@@ -22,4 +22,19 @@ For this iteration we will be refining the modules. The support of functionality
 | Connect database to existing modules | UPC scanner will a tell the cash register what product to query for in database<br><br>Cash register will be in contact with the databse in order to fulfill the query<br><br>Display view will show databse results from the query the cash register will make. Notifying the user about the product |
 ### Step 6: Sketch Views and Record Deisgn Decisions
 ### Step 7: Perform analysis of current design and review interation goal and achiecement of design purpose.
-
+| Not Addressed  | Partially Addressed  | Completely Addressed  | Design Decisions Made During the Iteration  |
+|----------------|----------------------|-----------------------|---------------------------------------------|
+|                |                      | UC-2                  |                                             |
+|                |                      | UC-3                  |                                             |
+|                |                      | QA-1                  |                                             |
+|                |                      | QA-4                  |                                             |
+| UC-1           |                      |                       |                                             |
+| UC-4           |                      |                       |                                             |
+| UC-5           |                      |                       |                                             |
+| QA-2           |                      |                       |                                             |
+| QA-3           |                      |                       |                                             |
+| CON-1          |                      |                       |                                             |
+| CON-2          |                      |                       |                                             |
+| CON-3          |                      |                       |                                             |
+| CON-4          |                      |                       |                                             |
+| CON-5          |                      |                       |                                             |
