@@ -21,6 +21,10 @@ For this iteration we will be refining the modules. The support of functionality
 | Remove text file that current holds product information | Only require one means of data storage |
 | Connect database to existing modules | UPC scanner will a tell the cash register what product to query for in database<br><br>Cash register will be in contact with the databse in order to fulfill the query<br><br>Display view will show databse results from the query the cash register will make. Notifying the user about the product |
 ### Step 6: Sketch Views and Record Deisgn Decisions
+| ELEMENT                    | RESPONSIBILITY                                                                  |
+|----------------------------|---------------------------------------------------------------------------------|
+| Database Access module     | Responsible for allowing user to view database results on cash register display |
+| Cash Register Workstation  | The cash register system which has the database and application interface       |
 ### Step 7: Perform analysis of current design and review interation goal and achiecement of design purpose.
 | Not Addressed  | Partially Addressed  | Completely Addressed  | Design Decisions Made During the Iteration  |
 |----------------|----------------------|-----------------------|---------------------------------------------|
